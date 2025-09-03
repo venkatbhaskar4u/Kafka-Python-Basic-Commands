@@ -1,5 +1,3 @@
-# Kafka-Python-Basic-Commands
-
 ## Overview
 This project provides a comprehensive suite of code samples demonstrating how to produce, consume, and process real-time data streams using Apache Kafka and Python. It covers both core Kafka operations and advanced features, such as transactional messaging, multi-topic workflows, stream processing with Faust, DataFrame-style transformations, and manual offset management. The scripts are ideal for rapid prototyping, interview preparation, and building robust data pipelines.
 
